@@ -23,8 +23,12 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 6 | 9/27 | Linear Regression | **[Unit Project 2](./unit-project/2)** | **[Unit Project 1](./unit-project/1)** |
 =======
 | 6 | 9/27 | [Linear Regression](./classes/06) | **[Unit Project 2](./unit-project/2)** | **[Unit Project 1](./unit-project/1)** |
+<<<<<<< HEAD
 >>>>>>> upstream/master
 | 7 | 9/29 | Linear Regression and Model Fit, Part 2 | | |
+=======
+| 7 | 9/29 | [Linear Regression and Model Fit, Part 2](./classes/07) | | |
+>>>>>>> upstream/master
 | 8 | 10/4 | k-Nearest Neighbors | **[Final Project 1](./final-project/1)** | **[Unit Project 2](./unit-project/2)** |
 | 9 | 10/6 | Logistic Regression | | |
 | 10 | 10/11 | Flexible Class Session #2: Machine Learning Modeling | **[Final Project 2](./final-project/2)** | **[Final Project 1](./final-project/1)** |
