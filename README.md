@@ -33,8 +33,12 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 8 | 10/4 | k-Nearest Neighbors | **[Final Project 1](./final-project/1)** | **[Unit Project 2](./unit-project/2)** |
 =======
 | 8 | 10/4 | [k-Nearest Neighbors](./classes/08) | **[Final Project 1](./final-project/1)** | **[Unit Project 2](./unit-project/2)** |
+<<<<<<< HEAD
 >>>>>>> upstream/master
 | 9 | 10/6 | Logistic Regression | | |
+=======
+| 9 | 10/6 | [Logistic Regression](./classes/09) | | |
+>>>>>>> upstream/master
 | 10 | 10/11 | Flexible Class Session #2: Machine Learning Modeling | **[Final Project 2](./final-project/2)** | **[Final Project 1](./final-project/1)** |
 | 11 | 10/13 | Advanced Metrics and Communicating Results | **[Unit Project 3](./unit-project/3)** | |
 | 12 | 10/18 | Decision Trees and Random Forests | | **[Final Project 2](./final-project/2)** |
