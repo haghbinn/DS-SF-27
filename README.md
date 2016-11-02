@@ -56,7 +56,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 >>>>>>> upstream/master
 | 13 | 10/20 | Flexible Class Session #3: Machine Learning Modeling, Part 2 | **[Final Project 3](./final-project/3)** | **[Unit Project 3](./unit-project/3)** |
 | 14 | 10/25 | [Flexible Class Session #4: Market Segmentation](./classes/14) | | |
-| 15 | 10/27 | Introduction to Time Series | **[Unit Project 4](./unit-project/4)** | **[Final Project 3](./final-project/3)** |
+| 15 | 10/27 | [Introduction to Time Series](./classes/15) | **[Unit Project 4](./unit-project/4)** | **[Final Project 3](./final-project/3)** |
 | 16 | 11/1 | Introduction to Natural Language Processing | | |
 | 17 | 11/3 | Introduction to Databases | **[Final Project 4](./final-project/4)** | **[Unit Project 4](./unit-project/4)** |
 | 18 | 11/8 | Wrapping Up and Next Steps | | |
